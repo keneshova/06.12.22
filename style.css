@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: gainsboro;
+}
+
+.topbar{
+  background-color: white;
+  margin-bottom: 15px;
+  padding: 10px 15px;
+  box-shadow: 0 0 10px peru;
+
+  display: flex;
+}
